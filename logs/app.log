@@ -1,0 +1,875 @@
+2026-05-08 14:05:46,164 - 1 dosya eklendi
+2026-05-08 16:33:43,674 - 1 dosya eklendi
+2026-05-09 14:33:08,683 - 1 dosya eklendi
+2026-05-09 14:33:09,914 - AI mode set to low
+2026-05-09 14:33:09,914 - AI mode set to low
+2026-05-09 14:33:14,540 - Upscale hatası (C:/Users/PC/Pictures/Screenshots/Ekran görüntüsü 2026-04-16 142844.png): type object 'Image' has no attribute 'open'
+2026-05-09 14:33:14,541 - Upscale tamamlandı
+2026-05-09 14:33:30,651 - AI mode set to low
+2026-05-09 14:33:42,075 - 1 dosya eklendi
+2026-05-09 14:33:43,354 - AI mode set to low
+2026-05-09 14:33:43,354 - AI mode set to low
+2026-05-09 14:42:53,222 - 1 dosya eklendi
+2026-05-09 14:42:54,753 - AI mode set to low
+2026-05-09 14:42:54,753 - AI mode set to low
+2026-05-09 14:42:58,831 - Upscale hatası (C:/Users/PC/Pictures/Screenshots/Ekran görüntüsü 2026-04-11 125527.png): type object 'Image' has no attribute 'open'
+2026-05-09 14:42:58,833 - Upscale tamamlandı
+2026-05-09 14:43:00,877 - Upscale hatası (C:/Users/PC/Pictures/Screenshots/Ekran görüntüsü 2026-04-11 125527.png): type object 'Image' has no attribute 'open'
+2026-05-09 14:43:00,879 - Upscale tamamlandı
+2026-05-09 14:43:03,057 - AI mode set to low
+2026-05-09 14:43:03,126 - Kaydedildi -> C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527.jpg
+2026-05-09 14:48:17,608 - ✅ 1 dosya eklendi
+2026-05-09 14:48:19,201 - AI mode set to low
+2026-05-09 14:48:19,201 - AI mode set to low
+2026-05-09 14:48:19,309 - 📷 Önizleme: Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 14:48:21,505 - AI mode set to low
+2026-05-09 14:48:21,505 - AI mode set to low
+2026-05-09 14:48:21,570 - 📷 Önizleme: Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 14:48:24,690 - AI mode set to low
+2026-05-09 14:48:24,707 - 🔄 Upscale başlıyor...
+2026-05-09 14:48:24,725 - 📦 İşleniyor: Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 14:48:24,793 - ❌ Upscale hatası (Ekran görüntüsü 2026-04-11 125527.png): cannot write mode RGBA as JPEG
+2026-05-09 14:48:24,795 - ✨ Upscale tamamlandı
+2026-05-09 15:57:44 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-09 16:04:44 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-09 16:05:25 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:05:26 [INFO] AI mode changed to 'low'.
+2026-05-09 16:05:26 [INFO] AI mode changed to 'low'.
+2026-05-09 16:05:26 [INFO] 📷 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:05:27 [INFO] AI mode changed to 'low'.
+2026-05-09 16:05:27 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:05:27 [DEBUG] Upscaling with BICUBIC (low mode), target=(522, 346)
+2026-05-09 16:05:28 [INFO] 📦 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:05:28 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:05:28 [INFO] ✅ Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:05:28 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:05:31 [INFO] AI mode changed to 'low'.
+2026-05-09 16:05:31 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:05:31 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527.jpg
+2026-05-09 16:05:31 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527.jpg
+2026-05-09 16:05:31 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:06:13 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:13 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:06:13 [DEBUG] Upscaling with BICUBIC (low mode), target=(522, 346)
+2026-05-09 16:06:13 [INFO] 📦 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:13 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:13 [INFO] ✅ Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:13 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:06:21 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:21 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:06:21 [DEBUG] Upscaling with BICUBIC (low mode), target=(522, 346)
+2026-05-09 16:06:21 [INFO] 📦 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:21 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:21 [INFO] ✅ Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:21 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:06:22 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:22 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:06:22 [DEBUG] Upscaling with BICUBIC (low mode), target=(522, 346)
+2026-05-09 16:06:22 [INFO] 📦 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:22 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:22 [INFO] ✅ Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:22 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:06:22 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:22 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:06:22 [DEBUG] Upscaling with BICUBIC (low mode), target=(522, 346)
+2026-05-09 16:06:22 [INFO] 📦 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:22 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:22 [INFO] ✅ Ekran görüntüsü 2026-04-11 125527_upscaled.png
+2026-05-09 16:06:22 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:06:24 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:24 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:06:24 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527.jpg
+2026-05-09 16:06:24 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 125527.jpg
+2026-05-09 16:06:24 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:06:36 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:36 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:36 [INFO] 📷 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:38 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:38 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:38 [INFO] 📷 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:39 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:39 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:39 [INFO] 📷 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:39 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:39 [INFO] AI mode changed to 'low'.
+2026-05-09 16:06:39 [INFO] 📷 Ekran görüntüsü 2026-04-11 125527.png
+2026-05-09 16:06:49 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-09 16:07:13 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:07:14 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:14 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:14 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:07:18 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:18 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:07:18 [DEBUG] Upscaling with LANCZOS (ultra mode), target=(434, 188)
+2026-05-09 16:07:18 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318_upscaled.png
+2026-05-09 16:07:18 [INFO] 📦 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:07:18 [INFO] ✅ Ekran görüntüsü 2026-04-11 124318_upscaled.png
+2026-05-09 16:07:18 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:07:31 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:31 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:31 [DEBUG] Upscaling with LANCZOS (ultra mode), target=(434, 188)
+2026-05-09 16:07:31 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:07:42 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:42 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:07:42 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.jpg
+2026-05-09 16:07:42 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.jpg
+2026-05-09 16:07:42 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:07:47 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:07:47 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:07:47 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:07:47 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:07:47 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:10:26 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-09 16:10:36 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:10:37 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:37 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:37 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:45 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:45 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:45 [DEBUG] Upscaling with LANCZOS (ultra mode), target=(434, 188)
+2026-05-09 16:10:45 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:46 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:46 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:50 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:50 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:10:50 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:50 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:50 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:10:54 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:10:54 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:10:54 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:54 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:10:54 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:11:04 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:11:04 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:11:04 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:11:04 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:11:04 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:11:18 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:11:18 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-09 16:11:18 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.jpg
+2026-05-09 16:11:18 [INFO] Kaydedildi → C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318.jpg
+2026-05-09 16:11:18 [INFO] ✅ 1 dosya dönüştürüldü
+2026-05-09 16:12:03 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-09 16:38:12 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-09 16:38:32 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:38:33 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:38:33 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:38:33 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:38:40 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:38:40 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:38:40 [INFO] 📦 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:38:40 [INFO] Downloading model 'realesr-x4plus.onnx' from https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/RealESRGAN_x4plus.pth …
+2026-05-09 16:38:40 [ERROR] Model download failed for realesr-x4plus.onnx: HTTP Error 404: Not Found
+2026-05-09 16:38:40 [DEBUG] Lanczos fallback upscale → (434, 188)
+2026-05-09 16:38:40 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-11 124318_upscaled.png
+2026-05-09 16:38:40 [INFO] ✅ Ekran görüntüsü 2026-04-11 124318_upscaled.png
+2026-05-09 16:38:40 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:39:41 [INFO] ✕ Silindi: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-09 16:39:44 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:39:45 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:39:45 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:39:46 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:39:50 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:39:50 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:39:50 [INFO] 📦 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:39:50 [INFO] Downloading model 'realesr-x4plus.onnx' from https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/RealESRGAN_x4plus.pth …
+2026-05-09 16:39:50 [ERROR] Model download failed for realesr-x4plus.onnx: HTTP Error 404: Not Found
+2026-05-09 16:39:50 [DEBUG] Lanczos fallback upscale → (728, 640)
+2026-05-09 16:39:50 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:39:50 [INFO] ✅ Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:39:50 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:44:22 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-09 16:44:29 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:44:31 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:44:31 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:44:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:44:39 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:44:39 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:44:39 [INFO] 📦 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:44:39 [INFO] Downloading model 'realesr-x4plus.onnx' from https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/RealESRGAN_x4plus.pth …
+2026-05-09 16:44:40 [ERROR] Model download failed for realesr-x4plus.onnx: HTTP Error 404: Not Found
+2026-05-09 16:44:40 [DEBUG] Lanczos fallback upscale → (728, 640)
+2026-05-09 16:44:40 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:44:40 [INFO] ✅ Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:44:40 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:45:21 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:45:21 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:45:21 [INFO] 📦 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:45:21 [INFO] Downloading model 'realesr-x4plus.onnx' from https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/RealESRGAN_x4plus.pth …
+2026-05-09 16:45:21 [ERROR] Model download failed for realesr-x4plus.onnx: HTTP Error 404: Not Found
+2026-05-09 16:45:21 [DEBUG] Lanczos fallback upscale → (728, 640)
+2026-05-09 16:45:21 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:45:21 [INFO] ✅ Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:45:21 [INFO] ✨ Upscale tamamlandı
+2026-05-09 16:54:41 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-09 16:54:52 [INFO] ✅ 1 dosya eklendi
+2026-05-09 16:54:53 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:54:53 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:54:53 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:54:53 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:54:53 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:54:53 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:54:55 [INFO] AI mode changed to 'ultra'.
+2026-05-09 16:54:55 [INFO] 🔄 Upscale başlıyor...
+2026-05-09 16:54:55 [INFO] 📦 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-09 16:54:56 [INFO] ONNX model loaded: RealESRGAN_x4plus.onnx
+2026-05-09 16:55:15 [DEBUG] Saved: C:/Users/PC/Desktop\Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:55:15 [INFO] ✅ Ekran görüntüsü 2026-04-17 135933_upscaled.png
+2026-05-09 16:55:15 [INFO] ✨ Upscale tamamlandı
+2026-05-09 17:00:42 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-11 11:59:58 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-11 11:59:59 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:00:15 [INFO] AI mode changed to 'balanced'.
+2026-05-11 12:00:15 [INFO] 🤖 AI modu: balanced
+2026-05-11 12:00:25 [INFO] ✅ 1 dosya eklendi
+2026-05-11 12:00:27 [INFO] AI mode changed to 'balanced'.
+2026-05-11 12:00:27 [INFO] AI mode changed to 'balanced'.
+2026-05-11 12:00:27 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:00:30 [INFO] AI mode changed to 'balanced'.
+2026-05-11 12:00:30 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 12:00:30 [INFO] 📦 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:00:32 [INFO] ONNX model loaded: RealESRGAN_x4plus.onnx
+2026-05-11 12:00:35 [INFO] ✅ Upscaled: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:00:35 [INFO] ✨ Upscale tamamlandı — Kaydet butonuna basın
+2026-05-11 12:00:50 [INFO] AI mode changed to 'low'.
+2026-05-11 12:00:50 [INFO] 🤖 AI modu: low
+2026-05-11 12:00:51 [INFO] AI mode changed to 'low'.
+2026-05-11 12:00:51 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 12:00:51 [INFO] 📦 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:00:52 [INFO] ONNX model loaded: RealESRGAN_x2plus.onnx
+2026-05-11 12:00:56 [INFO] ✅ Upscaled: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:00:56 [INFO] ✨ Upscale tamamlandı — Kaydet butonuna basın
+2026-05-11 12:01:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:03 [INFO] 🤖 AI modu: ultra
+2026-05-11 12:01:05 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:05 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 12:01:05 [INFO] 📦 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:09 [INFO] ✅ Upscaled: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:09 [INFO] ✨ Upscale tamamlandı — Kaydet butonuna basın
+2026-05-11 12:01:42 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:42 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:42 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:43 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:43 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:43 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:44 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:44 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:44 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:45 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:45 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:45 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:47 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:48 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] AI mode changed to 'ultra'.
+2026-05-11 12:01:50 [INFO] 📷 Ekran görüntüsü 2026-04-11 124318.png
+2026-05-11 12:01:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 14:19:21 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-11 14:19:21 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:40:18 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-11 15:41:17 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-11 15:46:36 [DEBUG] AIEngine initialised in 'ultra' mode.
+2026-05-11 15:47:01 [INFO] ✅ 1 dosya eklendi
+2026-05-11 15:47:02 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:02 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:02 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:02 [INFO] 📋 Genişlik: 364 px | Yükseklik: 320 px | Format: PNG | Mod: RGBA | Dosya Boyutu: 63.3 KB
+2026-05-11 15:47:16 [INFO] ⚠️ Önizleme üzerinde kırpma alanı seçin
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:22 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:25 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:27 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:29 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:30 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:32 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:32 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:32 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:32 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:32 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:32 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:32 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:51 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:52 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:53 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:53 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:53 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:54 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:54 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:54 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:55 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:55 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:55 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:55 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:55 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:47:55 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:47:57 [INFO] ↺ 90° döndürüldü
+2026-05-11 15:48:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:03 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:03 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:03 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:04 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:05 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:06 [INFO] ↺ -90° döndürüldü
+2026-05-11 15:48:10 [INFO] ↺ 180° döndürüldü
+2026-05-11 15:48:11 [INFO] ⇔ Çevrildi
+2026-05-11 15:48:12 [INFO] ⇔ Çevrildi
+2026-05-11 15:48:13 [INFO] ↺ 90° döndürüldü
+2026-05-11 15:48:14 [INFO] ↺ 90° döndürüldü
+2026-05-11 15:48:15 [INFO] ↺ 90° döndürüldü
+2026-05-11 15:48:16 [INFO] ↺ -90° döndürüldü
+2026-05-11 15:48:16 [INFO] ↺ 180° döndürüldü
+2026-05-11 15:48:17 [INFO] ⇔ Çevrildi
+2026-05-11 15:48:18 [INFO] ⇔ Çevrildi
+2026-05-11 15:48:19 [INFO] ⇔ Çevrildi
+2026-05-11 15:48:20 [INFO] ⇔ Çevrildi
+2026-05-11 15:48:30 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:30 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:30 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:33 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:33 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:33 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:34 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:35 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:36 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:36 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:36 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:48:36 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:48:49 [INFO] 🗑 Önbellek temizlendi
+2026-05-11 15:49:14 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:14 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 15:49:14 [INFO] 📦 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:16 [INFO] ONNX model loaded: RealESRGAN_x4plus.onnx
+2026-05-11 15:49:21 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:21 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:21 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:21 [INFO] 📋 Genişlik: 364 px | Yükseklik: 320 px | Format: PNG | Mod: RGBA | Dosya Boyutu: 63.3 KB
+2026-05-11 15:49:21 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:21 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:21 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:21 [INFO] 📋 Genişlik: 364 px | Yükseklik: 320 px | Format: PNG | Mod: RGBA | Dosya Boyutu: 63.3 KB
+2026-05-11 15:49:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:25 [INFO] 🤖 AI modu: ultra
+2026-05-11 15:49:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:26 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 15:49:26 [INFO] 📦 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:37 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:37 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:38 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:39 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:39 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:49:39 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:43 [INFO] ✅ Upscaled: Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:43 [INFO] ✨ Upscale tamamlandı — Kaydet butonuna basın
+2026-05-11 15:49:55 [INFO] ✅ Upscaled: Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:49:55 [INFO] ✨ Upscale tamamlandı — Kaydet butonuna basın
+2026-05-11 15:50:23 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:23 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:24 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:26 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:27 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:27 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:27 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:27 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:28 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:50:28 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:50:33 [INFO] ⚠️ Önizleme üzerinde kırpma alanı seçin
+2026-05-11 15:50:37 [INFO] ⚠️ Önizleme üzerinde kırpma alanı seçin
+2026-05-11 15:55:15 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:55:15 [INFO] AI mode changed to 'ultra'.
+2026-05-11 15:55:15 [INFO] 📷 Ekran görüntüsü 2026-04-17 135933.png
+2026-05-11 15:55:33 [INFO] ⚠️ İzlenecek klasör seçin
+2026-05-11 15:55:42 [INFO] WatchService started: C:/Users/PC/Pictures/Screenshots
+2026-05-11 15:55:42 [INFO] 👁 İzleme başladı: C:/Users/PC/Pictures/Screenshots
+2026-05-11 15:55:48 [INFO] WatchService stopped
+2026-05-11 15:55:48 [INFO] ⏹ İzleme durduruldu
+2026-05-11 16:01:23 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:01:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:01:31 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:01:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:01:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:01:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:01:34 [INFO] AI mode changed to 'ultra'.
+2026-05-11 16:02:59 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:37:00 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-11 23:37:01 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-11 23:37:35 [INFO] 📂 1 dosya eklendi
+2026-05-11 23:37:43 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:37:43 [INFO] 🤖 AI modu: ultra
+2026-05-11 23:37:44 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 23:37:44 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:37:45 [INFO] ONNX model loaded: RealESRGAN_x4plus.onnx
+2026-05-11 23:37:45 [INFO] 🚀 Upscaled: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:37:45 [INFO] ✨ Upscale tamamlandı
+2026-05-11 23:38:18 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 23:38:18 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:38:19 [INFO] 🚀 Upscaled: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:38:19 [INFO] ✨ Upscale tamamlandı
+2026-05-11 23:38:40 [INFO] 💾 Kaydediliyor...
+2026-05-11 23:39:37 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:08 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:12 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:15 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:20 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:22 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:27 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:28 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:29 [INFO] ↺ 180° döndürüldü: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:29 [INFO] ⇔ Yatay çevrildi: Ekran görüntüsü 2026-02-22 203533.png
+2026-05-11 23:40:48 [INFO] ❌ rembg kütüphanesi bulunamadı. 'pip install rembg' komutunu çalıştırın.
+2026-05-11 23:42:56 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-11 23:42:56 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-11 23:43:02 [INFO] ❌ rembg kütüphanesi bulunamadı. 'pip install rembg' komutunu çalıştırın.
+2026-05-11 23:43:05 [INFO] ⚠️ Önce dosya seçin
+2026-05-11 23:43:09 [INFO] ❌ rembg kütüphanesi bulunamadı. 'pip install rembg' komutunu çalıştırın.
+2026-05-11 23:47:15 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-11 23:47:15 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-11 23:47:29 [INFO] 📂 1 dosya eklendi
+2026-05-11 23:49:18 [INFO] ⚠️ Geri alınacak işlem yok
+2026-05-11 23:49:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:49:26 [INFO] 🤖 AI modu: ultra
+2026-05-11 23:49:35 [INFO] 🔄 Arka plan kaldırılıyor...
+2026-05-11 23:49:40 [INFO] ✅ Arka plan kaldırıldı: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:49:48 [INFO] AI mode changed to 'balanced'.
+2026-05-11 23:49:48 [INFO] 🤖 AI modu: balanced
+2026-05-11 23:49:54 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 23:49:54 [INFO] AI mode changed to 'balanced'.
+2026-05-11 23:49:55 [INFO] ONNX model loaded: RealESRGAN_x4plus.onnx
+2026-05-11 23:50:10 [INFO] 🚀 Upscaled: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:50:10 [INFO] ✨ Upscale tamamlandı
+2026-05-11 23:50:13 [INFO] ⚠️ Önizleme üzerinde kırpma alanı seçin
+2026-05-11 23:50:19 [INFO] ⚠️ Watermark metni veya logo seçin
+2026-05-11 23:50:25 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:50:25 [INFO] 🤖 AI modu: ultra
+2026-05-11 23:50:26 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 23:50:26 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:50:41 [INFO] 🚀 Upscaled: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:50:41 [INFO] ✨ Upscale tamamlandı
+2026-05-11 23:50:45 [INFO] ⚠️ Watermark metni veya logo seçin
+2026-05-11 23:51:39 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:39 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:39 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:40 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:40 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:40 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:40 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:40 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:41 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:41 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:41 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:41 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:41 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:42 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:43 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:43 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:54 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:55 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:56 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:51:56 [INFO] ↺ -90° döndürüldü: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:52:01 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:52:07 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:52:43 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:53:21 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:53:24 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:53:29 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:53:50 [INFO] 🗜 ZIP kaydedildi: C:/Users/steam/OneDrive/Desktop/11.zip
+2026-05-11 23:54:23 [INFO] 🔄 Arka plan kaldırılıyor...
+2026-05-11 23:54:24 [INFO] ✅ Arka plan kaldırıldı: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:54:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:54:49 [INFO] 🤖 AI modu: ultra
+2026-05-11 23:54:49 [INFO] 🔄 Upscale başlıyor...
+2026-05-11 23:54:49 [INFO] AI mode changed to 'ultra'.
+2026-05-11 23:55:04 [INFO] 🚀 Upscaled: Ekran görüntüsü 2026-02-22 023555.png
+2026-05-11 23:55:04 [INFO] ✨ Upscale tamamlandı
+2026-05-11 23:55:22 [INFO] ⚠️ Watermark metni veya logo seçin
+2026-05-11 23:55:22 [INFO] ⚠️ Watermark metni veya logo seçin
+2026-05-11 23:55:23 [INFO] ⚠️ Watermark metni veya logo seçin
+2026-05-11 23:56:28 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-11 23:56:28 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-11 23:56:57 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-11 23:56:58 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-12 10:24:38 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-12 10:24:40 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-12 10:48:18 [DEBUG] AIEngine initialised in 'low' mode.
+2026-05-12 10:48:19 [INFO] ✅ Ultimate Image Converter AI v2.0.0 başlatıldı
+2026-05-12 10:49:13 [INFO] 📂 1 dosya eklendi
+2026-05-12 10:49:16 [INFO] 🔄 Upscale başlıyor...
+2026-05-12 10:49:16 [INFO] AI mode changed to 'ultra'.
+2026-05-12 10:49:18 [INFO] ONNX model loaded: RealESRGAN_x4plus.onnx
+2026-05-12 10:49:21 [INFO] 🚀 Upscale tamamlandı: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:49:58 [INFO] 🔲 Kırpma modu aktif — önizleme üzerinde alan seçin
+2026-05-12 10:50:02 [INFO] ✂ Kırpıldı: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:50:05 [INFO] ✕ Kırpma iptal edildi
+2026-05-12 10:50:06 [INFO] ✕ Kırpma iptal edildi
+2026-05-12 10:50:07 [INFO] 🔲 Kırpma modu aktif — önizleme üzerinde alan seçin
+2026-05-12 10:50:09 [INFO] 🔲 Kırpma modu aktif — önizleme üzerinde alan seçin
+2026-05-12 10:50:10 [INFO] ✕ Kırpma iptal edildi
+2026-05-12 10:50:12 [INFO] ↺ Geri alındı
+2026-05-12 10:50:35 [INFO] ⚠️ Watermark metni veya logo seçin
+2026-05-12 10:50:42 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:50:45 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:50:53 [INFO] 💧 Watermark eklendi: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:51:59 [INFO] 🔄 Arka plan kaldırılıyor...
+2026-05-12 10:52:26 [INFO] ✅ Arka plan kaldırıldı: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:52:43 [INFO] 💾 Kaydediliyor...
+2026-05-12 10:52:43 [DEBUG] Saved: C:\Users\PC\Desktop\1\outputs\Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:52:43 [INFO] 💾 Kaydedildi: Ekran görüntüsü 2026-04-11 124318.png
+2026-05-12 10:52:43 [DEBUG] Saved: C:\Users\PC\Desktop\1\outputs\Ekran görüntüsü 2026-04-11 124318_nobg.png
+2026-05-12 10:52:43 [INFO] 💾 Kaydedildi: Ekran görüntüsü 2026-04-11 124318_nobg.png
+2026-05-12 10:52:43 [INFO] ✅ 2 görsel kaydedildi
+2026-05-12 10:52:59 [INFO] 🔄 Dönüştürme başlıyor...
+2026-05-12 10:52:59 [INFO] ✅ Dönüştürüldü: Ekran görüntüsü 2026-04-11 124318.png
