@@ -1,0 +1,20 @@
+{
+    "version": "3.1.0",
+    "output_folder": "C:\\Users\\PC\\Desktop\\1\\outputs",
+    "format": "png",
+    "quality": 90,
+    "width": 1080,
+    "height": 1920,
+    "border_color": "#000000",
+    "border_mode": "normal",
+    "metadata_clean": true,
+    "ai_mode": "ultra",
+    "use_original_size": false,
+    "rename_pattern": "{name}",
+    "target_size_kb": 0,
+    "theme": "dark",
+    "watch_folder": "",
+    "auto_remove_processed": false,
+    "auto_save": false,
+    "batch_cancel": false
+}
