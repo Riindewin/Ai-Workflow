@@ -69,6 +69,29 @@ class InfoTab(Frame):
         for key, val in basic.items():
             self._row(key, str(val))
 
+        # Renk Paleti bölümü
+        try:
+            from PIL import Image
+            from core.color_palette import ColorPalette
+            with Image.open(path) as img:
+                img.load()
+                img_copy = img.copy()
+            colors = ColorPalette.extract_hex(img_copy, n_colors=6)
+            self._section("Renk Paleti")
+            palette_frame = Frame(self.inner, bg=C_BG_SURFACE)
+            palette_frame.pack(fill=X, padx=12, pady=(0, 8))
+            for hex_color in colors:
+                swatch = Frame(palette_frame, bg=hex_color, width=32, height=32,
+                               cursor="hand2")
+                swatch.pack(side="left", padx=2)
+                swatch.pack_propagate(False)
+                # Tıklanınca hex kodu kopyala
+                swatch.bind("<Button-1>", lambda e, c=hex_color: self._copy_color(c))
+                tip = Label(swatch, text="", bg=hex_color)
+                tip.pack()
+        except Exception:
+            pass
+
         # EXIF bölümü
         if exif:
             self._section("EXIF / Metadata")
@@ -83,6 +106,16 @@ class InfoTab(Frame):
             ).pack(fill=X, padx=14, pady=4)
 
         Frame(self.inner, bg=C_BG_SURFACE, height=16).pack()
+
+    def _copy_color(self, hex_color: str) -> None:
+        """Renk kodunu panoya kopyala."""
+        try:
+            import tkinter as tk
+            root = self.winfo_toplevel()
+            root.clipboard_clear()
+            root.clipboard_append(hex_color)
+        except Exception:
+            pass
 
     def _section(self, text: str) -> None:
         Label(

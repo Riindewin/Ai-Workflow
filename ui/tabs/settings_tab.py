@@ -321,61 +321,13 @@ class SettingsTab(Frame):
     # ── Section label ────────────────────────────
 
     def _section(self, text: str) -> Label:
-        lbl = Label(self.inner, text=text.upper(), bg=DARK.bg_surface, fg=DARK.text_muted,
+        palette = getattr(self, "_palette", DARK)
+        lbl = Label(self.inner, text=text.upper(), bg=palette.bg_surface, fg=palette.text_muted,
                     font=("Segoe UI", 7, "bold"), anchor="w")
         lbl.pack(fill=X, padx=12, pady=(12, 3))
         return lbl
 
     # ── Theme ────────────────────────────────────
-
-    def apply_theme(self, palette: ThemePalette) -> None:
-        self._palette = palette
-        self.configure(bg=palette.bg_surface)
-        if hasattr(self, "inner"):
-            self.inner.configure(bg=palette.bg_surface)
-        if hasattr(self, "_canvas"):
-            self._canvas.configure(bg=palette.bg_surface)
-        if hasattr(self, "_log_text"):
-            self._log_text.configure(bg=palette.bg_input, fg=palette.log_fg)
-        if hasattr(self, "_log_panel"):
-            self._log_panel.configure(bg=palette.bg_input)
-        if hasattr(self, "log_toggle_btn"):
-            self.log_toggle_btn.configure(bg=palette.bg_raised, fg=palette.text,
-                                          activebackground=palette.bg_hover)
-        if hasattr(self, "_clear_cache_btn"):
-            self._clear_cache_btn.configure(bg=palette.bg_raised, fg=palette.text,
-                                            activebackground=palette.bg_hover)
-        if hasattr(self, "_lang_hint"):
-            self._lang_hint.configure(bg=palette.bg_surface, fg=palette.text_muted)
-        # Update section labels bg
-        for attr in ("_lang_section_lbl", "_theme_section_lbl", "_log_section_lbl",
-                     "_filelist_section_lbl", "_cache_section_lbl", "_about_section_lbl"):
-            lbl = getattr(self, attr, None)
-            if lbl:
-                try:
-                    lbl.configure(bg=palette.bg_surface, fg=palette.text_muted)
-                except Exception:
-                    pass
-        if hasattr(self, "_auto_remove_chk"):
-            self._auto_remove_chk.configure(
-                bg=palette.bg_surface, fg=palette.text,
-                activebackground=palette.bg_surface, activeforeground=palette.text,
-                selectcolor=palette.bg_input,
-            )
-        if hasattr(self, "_auto_save_chk"):
-            self._auto_save_chk.configure(
-                bg=palette.bg_surface, fg=palette.text,
-                activebackground=palette.bg_surface, activeforeground=palette.text,
-                selectcolor=palette.bg_input,
-            )
-        self._highlight_active_theme()
-        if hasattr(self, "_about_card"):
-            self._about_card.configure(bg=palette.bg_raised)
-            for child in self._about_card.winfo_children():
-                try:
-                    child.configure(bg=palette.bg_raised, fg=palette.text_muted)
-                except Exception:
-                    pass
 
     # Overload for (panel_bg, element_bg, border_color, text_color) signature
     def apply_theme(self, *args) -> None:  # type: ignore[override]

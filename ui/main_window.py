@@ -39,6 +39,7 @@ from services.preset_service import PresetService
 from services.rembg_service import RemBGService
 from services.watch_service import WatchService
 from services.logger_service import LoggerService
+from services.model_manager import ModelManager
 
 from models.app_state import AppState
 
@@ -87,7 +88,8 @@ class MainWindow:
         self.logger_svc = LoggerService()
 
         # ── Core engines ─────────────────────────
-        self.ai_engine = AIEngine()
+        self.model_manager = ModelManager()
+        self.ai_engine = AIEngine(model_manager=self.model_manager)
         self.converter = ImageConverter()
         self.export_engine = ExportEngine()
         self.image_editor = ImageEditor()
@@ -287,7 +289,7 @@ class MainWindow:
         self.theme_engine.register(self.zoom_canvas)
         self.theme_engine.register(self.button_panel)
         self.theme_engine.register(self.settings_tab)
-        # info_tab tema kaydı yok (apply_theme 4-arg imzası kullanıyor)
+        self.theme_engine.register(self.info_tab)
 
     def apply_theme(self, palette: ThemePalette) -> None:
         """ThemeEngine tarafından çağrılır."""
@@ -649,8 +651,7 @@ class MainWindow:
                     if hasattr(self, "file_panel"):
                         self.file_panel.set_status(path, "done")
                     if self.state.auto_save:
-                        self.root.after(100, self.save_buffer)
-                self.root.after(0, _update)
+                        self.root.after(100, self.save_buffer)                self.root.after(0, _update)
             except Exception as exc:
                 logger.error("Dönüştürme hatası: %s", exc)
                 self.root.after(0, lambda: self.button_panel.set_status("❌ Dönüştürme hatası"))
@@ -684,6 +685,7 @@ class MainWindow:
         return composed
 
     def _on_convert_done(self) -> None:
+        """start_convert tamamlandığında çağrılır."""
         self.button_panel.set_status("✨ İşleme tamamlandı — Kaydet butonuna basın")
         self.button_panel.set_progress(1.0)
         self.button_panel.set_save_count(len(self._buffer))

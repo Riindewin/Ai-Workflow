@@ -1,4 +1,5 @@
 {
+    "version": "3.1.0",
     "output_folder": "C:\\Users\\PC\\Desktop\\1\\outputs",
     "format": "png",
     "quality": 90,
@@ -13,5 +14,7 @@
     "target_size_kb": 0,
     "theme": "dark",
     "watch_folder": "",
-    "auto_remove_processed": false
+    "auto_remove_processed": false,
+    "auto_save": false,
+    "batch_cancel": false
 }
