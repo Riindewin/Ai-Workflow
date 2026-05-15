@@ -18,7 +18,7 @@ A professional desktop image processing application built with Python and Tkinte
 - **AI upscaling** via Real-ESRGAN ONNX models
   - `Low` mode — 2× upscale (RealESRGAN x2plus)
   - `Balanced` mode — 4× upscale (RealESRGAN x4plus)
-  - `Ultra` mode — 4× upscale (GPU path reserved)
+  - `Ultra` mode — 4× upscale (RealESRGAN x4plus, GPU path reserved for future)
   - Automatic Lanczos fallback if model is unavailable
 
 ### ✂ Editor
@@ -185,7 +185,7 @@ Models are downloaded automatically on first use and cached in the `models/` fol
 |----------|---------------------|-------|--------|
 | Low      | RealESRGAN_x2plus   | 2×    | ~65 MB |
 | Balanced | RealESRGAN_x4plus   | 4×    | ~65 MB |
-| Ultra    | RealESRGAN_x4plus   | 4×    | ~65 MB |
+| Ultra    | RealESRGAN_x4plus   | 4×    | ~65 MB (GPU path reserved for future) |
 
 If a model cannot be downloaded, the engine automatically falls back to high-quality **Lanczos** interpolation.
 
